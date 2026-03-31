@@ -1,0 +1,15 @@
+Package: com.test.douququ
+Version: 1.0
+Section: Utilities
+Architecture: iphoneos-arm
+Essential: no
+Priority: optional
+Maintainer: 薛之谦 <test@example.com>
+Name: 电子斗蛐蛐
+Depends: firmware (>= 14.0)
+Description: iOS越狱斗蛐蛐小游戏
+Filename: debs/com.test.douququ_1.0_iphoneos-arm.deb
+Size: 524288
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
