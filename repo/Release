@@ -1,0 +1,8 @@
+Origin: 薛之谦私人源
+Label: iOS专属软件源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 手机自建Cydia源 - 免费可用
